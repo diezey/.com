@@ -54,4 +54,27 @@ h1{
 }
 td{
     color: white;
+    text-align: center;
 }
+th{
+    color: white;
+}
+.JUEVES {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+ 
+}
+.jueves{
+    position: absolute;
+    top: 60%;
+    left: 45%;
+ 
+
+}
+.fut11{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+  
